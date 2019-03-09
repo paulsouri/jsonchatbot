@@ -1,4 +1,4 @@
-# prakticeai
+# Welcome to JSON based chat-bot development tool
 
 Chat bot application using json parsing and interpretation. 
 
